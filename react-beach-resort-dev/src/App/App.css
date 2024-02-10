@@ -4,10 +4,10 @@
   box-sizing: border-box;
 }
 :root {
-  --primaryColor: #af9a7d;
+  --primaryColor: #d4c2a9;
   --mainWhite: #fff;
   --offWhite: #f7f7f7;
-  --mainBlack: #222;
+  --mainBlack: #3f3b3b;
   --mainGrey: #ececec;
   --darkGrey: #cfcfcf;
   --mainTransition: all 0.3s linear;
@@ -531,7 +531,7 @@ p {
   text-decoration: none;
 }
 .footer a:hover {
-  color: red;
+  color: rgb(190, 70, 70);
   text-decoration: underline;
   transition: var(--mainTransition);
   -webkit-transition: var(--mainTransition);
